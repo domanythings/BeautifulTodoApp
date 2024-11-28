@@ -17,7 +17,6 @@ C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\Todo.RazorAssembly
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\scopedcss\bundle\Todo.styles.css
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\scopedcss\projectbundle\Todo.bundle.scp.css
-C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\ep4rr7mo0i-b9sayid5wm.gz
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\fc7h4jd2t2-61n19gt1b8.gz
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\9vreofb19j-bqjiyaj88i.gz
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\fovvfqp3ty-c2jlpeoesf.gz
@@ -122,3 +121,5 @@ C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\bin\Debug\net9.0\runtimes\win-x86\n
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\Todo.csproj.AssemblyReference.cache
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\Todo.csproj.Up2Date
 C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\nsc2yllrpk-3p1uj57g0e.gz
+C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\Todo.sourcelink.json
+C:\Users\user\PROJECTS\BeautifulTodoApp\Todo\obj\Debug\net9.0\compressed\ep4rr7mo0i-wu4fq0dz0s.gz
